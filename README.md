@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hola, soy David
 
-<!--
-**DavidDiaz13/DavidDiaz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy formándome como Desarrollador Full Stack Java en Generation México.
 
-Here are some ideas to get you started:
+💻 Actualmente estoy aprendiendo Java y JavaScript y desarrollando proyectos para fortalecer mis conocimientos en programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Mi objetivo es conseguir mi primera oportunidad profesional como Desarrollador Junior o Trainee, donde pueda continuar aprendiendo y creciendo dentro del desarrollo de software.
+
+### 🛠️ Tecnologías
+
+Java | JavaScript | Git | GitHub
+
+### 🚀 Actualmente
+
+- 🎓 Formación Full Stack Java en Generation México
+- 💻 Desarrollo de proyectos y ejercicios prácticos
+- 📚 Aprendiendo buenas prácticas de programación
+- 🧩 Construyendo mi portafolio en GitHub
